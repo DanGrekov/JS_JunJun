@@ -25,20 +25,3 @@ Subtraction: ${firstVar} - ${secondVar} = ${subResult}
 Multiplication: ${firstVar} * ${secondVar} = ${multResult}
 Division: ${firstVar} / ${secondVar} = ${divisionResult}`);
 
-
-//Home work №3 (task)
-
-//№1
-
-//let admin = "Jhon";
-//let nameOfAdmin = admin;
-
-//alert(`${nameOfAdmin} is admin`); 
-
-//№2
-
-//const Earth = Earth;
-//let user = user;
-//console.log(Earth, user);
-
-
